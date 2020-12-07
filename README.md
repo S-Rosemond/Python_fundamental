@@ -1,2 +1,3 @@
 # Python_fundamental
-python ref code, concepts etc
+
+saving important python ref code, concepts etc, changing cpu with no plan for file/data transfer.
